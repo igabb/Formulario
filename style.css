@@ -4,9 +4,11 @@
     padding: 0;
 }
 
-/* Elementos com o ID titulo */
+/* Elementos com o ID "titulo" */
 #titulo {
     font-family: sans-serif;
     color: #380861;
     margin-left: 7%;
 }
+
+/* Elementos com o ID "subtitulo" */
