@@ -41,5 +41,6 @@ body {
 /* Elementos de tags <body>, <input>, <select>, <textarea> e <button> */
 input, select, textarea, button {
     font-family: sans-serif;
+    font-size: 1em;
     
 }
