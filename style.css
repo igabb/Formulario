@@ -57,6 +57,6 @@ input, select, textarea, button {
 }
 
 /* Elementos de classe "campo" */
-.campo label {
-    
+.campo {
+    margin-bottom: 1em;
 }
