@@ -70,5 +70,6 @@ input, select, textarea, button {
 
 /* Elementos de classe "campo" ou "grupo" de tag <fieldset> */
 fieldset.grupo .campo {
+    float: left;
     
 }
