@@ -65,4 +65,5 @@ input, select, textarea, button {
 .campo label {
     margin-bottom: 0.2em;
     color: #59429d;
+    display: block;
 }
