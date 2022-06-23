@@ -87,3 +87,4 @@ fieldset.grupo .campo {
     padding-right: 1em;
 }
 
+/* Elementos de classe "campo" com tag <input>, <select> e <textarea> todas com estado da pseudoclasse "focus" */
