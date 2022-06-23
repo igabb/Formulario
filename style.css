@@ -89,5 +89,5 @@ fieldset.grupo .campo {
 
 /* Elementos de classe "campo" com tag <input>, <select> e <textarea> todas com estado da pseudoclasse "focus" */
 .campo input:focus, .campo select:focus, .campo textarea:focus {
-    
+    background: #E0E0F8;
 }
