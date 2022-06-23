@@ -75,4 +75,6 @@ fieldset.grupo .campo {
 }
 
 /* Elementos de classe "campo" das tags <input> com atributo text e email, da tag <select> e da tag <textarea> */
-.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea
+.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
+    
+}
