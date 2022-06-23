@@ -83,3 +83,6 @@ fieldset.grupo .campo {
 }
 
 /* Elementos de classe "campo" de tag <select> e <option> */
+.campo select option {
+    
+}
