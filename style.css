@@ -95,4 +95,5 @@ fieldset.grupo .campo {
 /* Elemento de classe "botao" */
 .botao {
     font-size: 1.2em;
+    background: #59429d;
 }
