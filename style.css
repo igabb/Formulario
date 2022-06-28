@@ -110,3 +110,6 @@ fieldset.grupo .campo {
 }
 
 /* Elemento de classe "botao" com estado de pseudoclasse "hover" */
+.botao:hover {
+    
+}
